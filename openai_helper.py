@@ -60,3 +60,7 @@ class OpenAIChat:
 if __name__ == '__main__':
     chat_example = OpenAIChat()
     print(chat_example.send_message('Hello, how are you?'))
+
+
+
+
